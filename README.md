@@ -23,19 +23,22 @@
 按产品类型（ECS/Codebuild）或目的（部署静态网站）进行分类  
 
 ## CloudFormation
-* [[教程] 使用 AWS CloudFormation](https://1c7.me/aws-cloudformation-tutorial-in-chinese/)    
-本文作者补充：这篇文章讲的还不够深，只是个简单介绍，后续有空了会补充多大概1-3篇文章，写实际例子。   
-## S3 + CloudFront
-* [(教程) 静态网站部署1: 使用S3+CloudFront](https://1c7.me/deploy-static-site-with-aws-s3-and-cloudfront/)
-* [(教程) 静态网站部署2：如何更新](https://1c7.me/tutorial-2-how-to-update-static-website-hosting-on-aws-s3-and-cloudfront/)
-* [(教程) 静态网站部署3：如何使用 Github Actions 自动化部署](https://1c7.me/tutorial-3-automate-s3-cloudfront-deployment-with-github-actions/)
-* [(教程) 静态网站部署4：对于 SPA 应用，如何设置？](https://1c7.me/tutorial-4-spa-setting-on-cloudfront/)
+* [(教程) 使用 AWS CloudFormation](https://1c7.me/aws-cloudformation-tutorial-in-chinese/)    
+作者补充：这篇文章讲的还不够深，只是个简单介绍，后续有空了会补1-3篇文章，写实际例子。   
+## 静态网站部署（使用 S3 加 CloudFront 的组合）
+* [静态网站部署1：使用S3+CloudFront](https://1c7.me/deploy-static-site-with-aws-s3-and-cloudfront/)
+* [静态网站部署2：如何更新](https://1c7.me/tutorial-2-how-to-update-static-website-hosting-on-aws-s3-and-cloudfront/)
+* [静态网站部署3：如何使用 Github Actions 自动化部署](https://1c7.me/tutorial-3-automate-s3-cloudfront-deployment-with-github-actions/)
+* [静态网站部署4：对于 SPA 应用，如何设置？](https://1c7.me/tutorial-4-spa-setting-on-cloudfront/)
 
 ## Codebuild + ECR
 * [(教程) 如何设置 AWS Codebuild + ECR](https://1c7.me/tutorials-aws-codebuild-and-ecr/)
 
 ## Codebuild
-* [[教程] 如何提速 AWS Codebuild (从每次 30~40分钟优化到5分钟以下）](https://1c7.me/improve-aws-china-codebuild-speed-40minute-to-5minute/)   
+* [(教程) 如何提速 AWS Codebuild (从每次 30~40分钟优化到5分钟以下）](https://1c7.me/improve-aws-china-codebuild-speed-40minute-to-5minute/)   
 
 ## ECS
+(挖坑，待填)
+
+## RDS
 (挖坑，待填)
