@@ -42,3 +42,9 @@
 
 ## RDS
 (挖坑，待填)
+
+## 教程计划
+我打算做以下的教程：  
+
+* 视频教程1份，时间长度15-30分钟，演示怎么把一个静态网站部署到 S3+CloudFront
+* 视频教程1份，时间长度30-60分钟，演示怎么把一个 Docker 镜像部署到 AWS ECS 上（会需要很多其他资源，包括 Security Group, Load Balancer, Target Group, Service, Task Definition, RDS, Codebuild, ECR)
